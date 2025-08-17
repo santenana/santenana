@@ -1,12 +1,13 @@
 <p align="center">
-  <img alt="GIF" src="https://github.com/user-attachments/assets/006ee6d2-95cc-499a-8c01-d09dbb45f40c" width="400">
+  <img alt="GIF" src="https://github.com/user-attachments/assets/006ee6d2-95cc-499a-8c01-d09dbb45f40c" width="200">
 </p>
 
 
 
 <h1 align="center">Hi 👋, I'm Santiago </h1>
-<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
-
+<h3 align="center">Don't pay attention to the gifs of waifus, I use them for decoration and because they are funny to me</h3>
+<h3 align="center">I am a Data Analyst and Data Scientist, but inside my heart I'm a software engineer. I start my journey with programming 
+lenguages since I learn Python. I Love to make some computer vision applications because that  </h3>
 
 ## 🛠️ My Skills
 
