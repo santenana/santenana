@@ -10,7 +10,6 @@
 <h3 align="center: justify">I love all about Machine Learning, specially computer vision, in this repo you'll find some projects of CV</h3>
 <h3 align="center: justify">Now I'm improving my SQL and Python Skills to be a better Data Analysit/Scientis.</h3>
 <h3 align="center: justify">But also I'm learning other Programming lenguajes and skills because I want to make a video game all from scratch</h3>
-## 🛠️ My Skills
 
 ### In Data Analysis and Data Science I'am good at 😎
 #### For visualizacion I use 📊
@@ -24,6 +23,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+-----------
 
 ### In Machine Learning I can do lot of things 🏗️
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
