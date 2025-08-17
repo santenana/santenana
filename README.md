@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Lauro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<p align="center">
+  <img alt="GIF" src="https://github.com/user-attachments/assets/006ee6d2-95cc-499a-8c01-d09dbb45f40c" width="400">
+</p>
+
+
+
+<h1 align="center">Hi 👋, I'm Santiago </h1>
 <h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
+
 
 ## 🛠️ My Skills
 
