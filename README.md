@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Santiago </h1>
-<h3 align="center">Don't pay attention to the gifs of waifus, I use them for decoration and because they are funny to me</h3>
+<h3 align="text-align: justify">Don't pay attention to the gifs of waifus, I use them for decoration and because they are funny to me</h3>
 <h3 align="center">I am a Data Analyst and Data Scientist, but inside my heart I'm a software engineer. I start my journey with programming 
 lenguages since I learn Python. I Love to make some computer vision applications because that  </h3>
 
