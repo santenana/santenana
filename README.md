@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santiago </h1>
-<h3 align="text-align: justify">Don't pay attention to the gifs of waifus, I use them for decoration and because they are funny to me</h3>
+
 <h3 align="center: justify">I am a Data Analyst and Data Scientist, but inside my heart I'm a software engineer.</h3>
 <h3 align="center: justify">I love all about Machine Learning, specially computer vision, in this repo you'll find some projects of CV</h3>
 <h3 align="center: justify">Now I'm improving my SQL and Python Skills to be a better Data Analysit/Scientis.</h3>
