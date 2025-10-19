@@ -1,9 +1,3 @@
-<p align="center">
-  <img alt="GIF" src="https://github.com/user-attachments/assets/006ee6d2-95cc-499a-8c01-d09dbb45f40c" width="200">
-</p>
-
-
-
 <h1 align="center">Hi 👋, I'm Santiago </h1>
 <h3 align="text-align: justify">Don't pay attention to the gifs of waifus, I use them for decoration and because they are funny to me</h3>
 <h3 align="center: justify">I am a Data Analyst and Data Scientist, but inside my heart I'm a software engineer.</h3>
